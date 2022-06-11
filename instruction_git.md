@@ -17,6 +17,7 @@
     git add [filename.extension]
 
 ## Фиксация изменений
+    Обязательно сохранить изменения в файле перед выполнением (Ctrl+S) 
 
     git commit -m "comment"
 
