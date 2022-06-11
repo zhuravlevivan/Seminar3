@@ -38,5 +38,9 @@
 
 ## Переход между разными коммитами
 
-    git checkout
+    git checkout [хеш коммита]
+
+Вернуться в главную ветку:
+
+    git checkout master
 
