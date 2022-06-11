@@ -20,3 +20,6 @@
 
     git commit -m "comment"
 
+## Просмотр различий
+
+    git diff
