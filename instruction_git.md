@@ -14,4 +14,9 @@
 
 ## Добавление версионности
 
+    git add [filename.extension]
+
 ## Фиксация изменений
+
+    git commit -m "comment"
+
