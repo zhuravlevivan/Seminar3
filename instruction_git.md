@@ -59,3 +59,5 @@
     git log --all
 
 ### Создание новой ветки
+
+    git branch [new_branch_name]
